@@ -1,2 +1,2 @@
-# JBBP1
-Jacob, Ben, and Brad's Project 1
+# Propsal
+Our project is to uncover patterns in criminal activity around Indianapolis, IN. We'll examine relationships between types of crime and location; crime rates and housing price; and related questions, as the data admits.
